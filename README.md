@@ -13,3 +13,5 @@
 - [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,mysql,git,github,vscode)](https://skillicons.dev)
 - ## 📊 GitHub Stats
 - [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=varunfift7)](https://github.com/stats-organization/github-stats-extended)
+## 📈 GitHub Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=varunfift7&theme=high-contrast)](https://github.com/varunfift7/github-readme-activity-graph)
