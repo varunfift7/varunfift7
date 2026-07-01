@@ -10,4 +10,4 @@
 - 💻 Building web applications using **Python, Django, HTML, CSS, JavaScript & React**
 - 🎨 Passionate about **Canva, Poster Design & Social Media Creatives**
 - 📍 Based in Bangalore, India
-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,mysql,git,github,vscode,bootstrap)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,mysql,git,github,vscode)](https://skillicons.dev)
