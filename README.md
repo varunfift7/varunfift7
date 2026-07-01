@@ -11,3 +11,5 @@
 - 🎨 Passionate about **Canva, Poster Design & Social Media Creatives**
 - 📍 Based in Bangalore, India
 - [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,react,mysql,git,github,vscode)](https://skillicons.dev)
+- ## 📊 GitHub Stats
+- [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=varunfift7)](https://github.com/stats-organization/github-stats-extended)
